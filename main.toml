@@ -1,0 +1,4 @@
+#redis properties
+[REDIS]
+HOST="localhost"
+PORT="6379"
